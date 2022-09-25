@@ -38,9 +38,13 @@ The table below contains the course website for several courses in UCSD's Data S
             <td>Programming and Data Structures for Data Science</td>
             <td>
                 <a href="https://dsc-courses.github.io/dsc20-2022-fa/">Fall 2022 (Langlois)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc20-2022-sp/" style="color:#999">Spring 2022 (Langlois)</a><br>
-                </details>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 30</td>
+            <td>Data Structures and Algorithms for Data Science</td>
+            <td>
+                <a href="https://sites.google.com/ucsd.edu/dsc30fall2022/">Fall 2022 (Langlois)</a><br>
             </td>
         </tr>
         <tr>
@@ -76,12 +80,24 @@ The table below contains the course website for several courses in UCSD's Data S
             </td>
         </tr>
         <tr>
+            <td>DSC 90</td>
+            <td>Seminar in Data Science</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure) [History of Data Science]</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc90-2022-wi/">Winter 2022 (Rampure) [History of Data Science]</a><br>
+                </details>
+            </td>
+        </tr>
+        <tr>
             <td>DSC 102</td>
             <td>Systems for Scalable Analytics</td>
             <td>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/">Winter 2022 (Kumar)</a><br>
+                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_fall22/">Fall 2022 (Kumar)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/">Winter 2022 (Kumar)</a><br>
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter21/" style="color:#999">Winter 2021 (Kumar)</a><br>
+                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter20/">Winter 2020 (Kumar)</a><br>
                 </details>
             </td>
         </tr>
