@@ -90,6 +90,18 @@ The table below contains the course website for several courses in UCSD's Data S
             </td>
         </tr>
         <tr>
+            <td>DSC 100</td>
+            <td>Introduction to Data Management</td>
+            <td>
+                <a href="https://bsalimi.github.io/dsc100-fa22/">Fall 2022 (Salimi)</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="https://bsalimi.github.io/dsc100-fa21/">Fall 2021 (Salimi)</a><br>
+                <a href="https://bsalimi.github.io/dsc100-sp21/" style="color:#999">Spring 2021 (Spring 2021)</a><br>
+                <a href="https://bsalimi.github.io/dsc100-wi21/">Winter 2021 (Salimi)</a><br>
+                </details>
+            </td>
+        </tr>
+        <tr>
             <td>DSC 102</td>
             <td>Systems for Scalable Analytics</td>
             <td>
@@ -99,6 +111,13 @@ The table below contains the course website for several courses in UCSD's Data S
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter21/" style="color:#999">Winter 2021 (Kumar)</a><br>
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter20/">Winter 2020 (Kumar)</a><br>
                 </details>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 106</td>
+            <td>Introduction to Data Visualization</td>
+            <td>
+                <a href="https://sites.google.com/ucsd.edu/dsc106spring22/">Spring 2022 (Liao)</a><br>
             </td>
         </tr>
         <tr>
