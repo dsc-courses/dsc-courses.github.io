@@ -5,6 +5,8 @@
 
 The table below contains the course website for several courses in UCSD's Data Science curriculum. The current (Fall 2022) offering of each course is shown by default; click "Show past sites" to show sites from previous quarters.
 
+### Regularly-Offered Courses
+
 <table class="table">
     <colgroup>
         <col style="width: 10%" />
@@ -80,16 +82,6 @@ The table below contains the course website for several courses in UCSD's Data S
             </td>
         </tr>
         <tr>
-            <td>DSC 90</td>
-            <td>Seminar in Data Science</td>
-            <td>
-                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure) [History of Data Science]</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure) [History of Data Science]</a><br>
-                </details>
-            </td>
-        </tr>
-        <tr>
             <td>DSC 100</td>
             <td>Introduction to Data Management</td>
             <td>
@@ -132,5 +124,51 @@ The table below contains the course website for several courses in UCSD's Data S
         </tr>
     </tbody>
 </table>
+
+### Special Topics Courses
+
+<table class="table">
+    <colgroup>
+        <col style="width: 10%" />
+        <col style="width: 40%" />
+        <col style="width: 50%" />
+    </colgroup>
+    <thead class="header">
+        <tr>
+            <th>Course Code</th>
+            <th>Title</th>
+            <th>Websites</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>DSC 90</td>
+            <td>History of Data Science</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure)</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure)</a><br>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 190</td>
+            <td>Advanced Algorithms</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">Winter 2022 (Eldridge)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 190</td>
+            <td>Representation Learning</td>
+            <td>
+                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/">Spring 2022 (Eldridge)</a><br>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 
 With any questions with this site, feel free to email rampure@ucsd.edu.
