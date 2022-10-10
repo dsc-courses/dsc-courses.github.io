@@ -27,7 +27,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Principles of Data Science
                 <details>
                     <summary>Catalog Description</summary>
-
                     This introductory course develops computational thinking and
                     tools necessary to answer questions that arise from
                     large-scale datasets. This course emphasizes an end-to-end
@@ -53,7 +52,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Programming and Data Structures for Data Science
                 <details>
                     <summary>Catalog Description</summary>
-
                     Provides an understanding of the structures that underlie
                     the programs, algorithms, and languages used in data science
                     by expanding the repertoire of computational concepts
@@ -77,7 +75,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Data Structures and Algorithms for Data Science
                 <details>
                     <summary>Catalog Description</summary>
-
                     Builds on topics covered in DSC 20 and provides practical
                     experience in composing larger computational systems through
                     several significant programming projects using Java.
@@ -100,7 +97,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Theoretical Foundations of Data Science I
                 <details>
                     <summary>Catalog Description</summary>
-
                     This course, the first of a two-course sequence (DSC 40A-B), will introduce the
                     theoretical foundations of data science. Students will become familiar with
                     mathematical language for expressing data analysis problems and solution
@@ -128,7 +124,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Theoretical Foundations of Data Science II
                 <details>
                     <summary>Catalog Description</summary>
-
                     The sequence DSC 40A-B introduces the theoretical
                     foundations of data science and covers the following topics:
                     mathematical language for expressing data analysis problems
@@ -157,7 +152,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Practice and Application of Data Science
                 <details>
                     <summary>Catalog Description</summary>
-
                     The marriage of data, computation, and inferential thinking, or “data science,”
                     is redefining how people and organizations solve challenging problems and
                     understand the world. This course bridges lower- and upper-division data science
@@ -183,7 +177,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Introduction to Data Management
                 <details>
                     <summary>Catalog Description</summary>
-
                     This course is an introduction to storage and management of large-scale data
                     using classical relational (SQL) systems, with an eye toward applications in
                     data science. The course covers topics including the SQL data model and query
@@ -209,7 +202,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Systems for Scalable Analytics
                 <details>
                     <summary>Catalog Description</summary>
-
                     This course introduces the principles of computing systems and infrastructure
                     for scaling analytics to large datasets. Topics include memory hierarchy,
                     distributed systems, model selection, heterogeneous datasets, and deployment at
@@ -236,7 +228,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Introduction to Data Visualization
                 <details>
                     <summary>Catalog Description</summary>
-
                     Data visualization helps explore and interpret data through interaction. This
                     course introduces the principles, techniques, and algorithms for creating
                     effective visualizations. The course draws on the knowledge from several
@@ -258,7 +249,6 @@ The table below contains the course website for several courses in UCSD's Data S
                 Capstone Sequence
                 <details>
                     <summary>Catalog Description</summary>
-
                     In this two-course sequence students will investigate a topic and design a
                     system to produce statistically informed output. The investigation will span the
                     entire lifecycle, including assessing the problem, learning domain knowledge,
