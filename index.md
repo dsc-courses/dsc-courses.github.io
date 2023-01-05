@@ -25,8 +25,9 @@ The table below contains the course website for several courses in UCSD's Data S
             <td>DSC 10</td>
             <td>Principles of Data Science</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc10-2022-fa">Fall 2022 (Rampure, Tabaghi, and Tiefenbruck)</a><br>
+                <a href="https://dsc-courses.github.io/dsc10-2023-wi">Winter 2023 (Tiefenbruck)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc10-2022-fa" style="color:#999">Fall 2022 (Rampure, Tabaghi, and Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-su" style="color:#999">Summer 2022 (Lau)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-sp" style="color:#999">Spring 2022 (Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-wi" style="color:#999">Winter 2022 (Rampure)</a><br>
@@ -74,8 +75,9 @@ The table below contains the course website for several courses in UCSD's Data S
             <td>DSC 80</td>
             <td>Practice and Application of Data Science</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc80-2022-fa/">Fall 2022 (Eldridge)</a><br>
+                <a href="https://dsc-courses.github.io/dsc80-2023-wi">Winter 2023 (Rampure)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc80-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-sp/" style="color:#999">Spring 2022 (Rampure)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2021-fa/" style="color:#999">Fall 2021 (Eldridge)</a><br>
                 </details>
