@@ -3,7 +3,7 @@
 
 ## UCSD Data Science Course Websites
 
-The table below contains the course website for several courses in UCSD's Data Science curriculum. The current (Fall 2022) offering of each course is shown by default; click "Show past sites" to show sites from previous quarters.
+The table below contains the course website for several courses in UCSD's Data Science curriculum. The most recent offering of each course available is shown by default; click "Show past sites" to show sites from previous quarters.
 
 ### Regularly-Offered Courses
 
