@@ -197,8 +197,9 @@ The table below contains the course website for several courses in UCSD's Data S
                 </details>
             </td>
             <td>
-                <a href="https://bsalimi.github.io/dsc100-fa22/">Fall 2022 (Salimi)</a><br>
+                <a href="https://bsalimi.github.io/dsc100-wi23/">Winter 2023 (Salimi)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://bsalimi.github.io/dsc100-fa22/" style="color:#999">Fall 2022 (Salimi)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-fa21/" style="color:#999">Fall 2021 (Salimi)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-sp21/" style="color:#999">Spring 2021 (Spring 2021)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-wi21/" style="color:#999">Winter 2021 (Salimi)</a><br>
@@ -282,7 +283,7 @@ The table below contains the course website for several courses in UCSD's Data S
     </tbody>
 </table>
 
-### Special Topics Courses
+### Special Topics Undergraduate Courses
 
 <table class="table">
     <colgroup>
@@ -329,16 +330,55 @@ The table below contains the course website for several courses in UCSD's Data S
                 <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/">Spring 2022 (Eldridge)</a><br>
             </td>
         </tr>
+    </tbody>
+</table>
+
+### Graduate Courses
+
+While not all of these courses are labelled "DSC", they are all taught by DSC faculty.
+
+<table class="table">
+    <colgroup>
+        <col style="width: 10%" />
+        <col style="width: 40%" />
+        <col style="width: 50%" />
+    </colgroup>
+    <thead class="header">
+        <tr>
+            <th>Course Code</th>
+            <th>Title</th>
+            <th>Websites</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>COGS 260</td>
+            <td>Signal processing and machine learning for EEG-based brain-computer interfaces (BCIs)
+                <details>
+                    <summary>Catalog Description</summary>
+                    This course is designed to give students background in EEG-based brain-computer interfaces followed by in depth exploration of signal processing and classification algorithms used.
+
+                    The first few lectures will be given by the Professor on introduction to EEG and BCIs.  Future classes will involve students presenting classification or signal processing algorithms of their choice from recent or classic papers.  Students will meet with the Professor before their class presentation for any help needed in understanding the paper.  Final projects may be done in groups and will involve either detailed or comparative analysis of different algorithms or application of algorithms to well curated data.  Evaluation will be dependent on paper presentation, participation during other presentations, and the final project.
+
+                    Background or interest in EEG and Neuroscience are required.  A prior upper division undergraduate or graduate course in machine learning, signal processing, or other mathematical course is also required. Students interested in BCIs without a mathematical background are encouraged to consider taking COGS 189 offered M/W/F 9AM WI 2023.
+                </details>
+            </td>
+            <td>
+                <a href="https://docs.google.com/document/d/1L5hXL-VsIwTq9HqIm4Lzs4qxmy9gl4UF7oBXJrch9Jo/edit/">Winter 2023 (de Sa)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 291</td>
+            <td>Privacy-Preserving Data Systems</td>
+            <td>
+                <a href="https://haojian.github.io/privacysys/">Winter 2023 (Jin)</a><br>
+            </td>
+        </tr>
         <tr>
             <td>DSC 291</td>
             <td>Coding Theory</td>
             <td>
                 <a href="https://sites.google.com/ucsd.edu/coding-theory/">Fall 2022 (Mazumdar)</a><br>
-            </td>
-            <td>DSC 291</td>
-            <td>Privacy-Preserving Data Systems</td>
-            <td>
-                <a href="https://haojian.github.io/privacysys/">Winter 2023 (Jin)</a><br>
             </td>
         </tr>
     </tbody>
