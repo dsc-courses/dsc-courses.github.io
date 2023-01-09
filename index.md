@@ -335,6 +335,11 @@ The table below contains the course website for several courses in UCSD's Data S
             <td>
                 <a href="https://sites.google.com/ucsd.edu/coding-theory/">Fall 2022 (Mazumdar)</a><br>
             </td>
+            <td>DSC 291</td>
+            <td>Privacy-Preserving Data Systems</td>
+            <td>
+                <a href="https://haojian.github.io/privacysys/">Winter 2023 (Jin)</a><br>
+            </td>
         </tr>
     </tbody>
 </table>
