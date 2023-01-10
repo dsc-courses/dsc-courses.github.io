@@ -376,6 +376,13 @@ While not all of these courses are labelled "DSC", they are all taught by DSC fa
         </tr>
         <tr>
             <td>DSC 291</td>
+            <td>Mobile and Ubiquitous Computing</td>
+            <td>
+                <a href="https://sites.google.com/view/dsc291ubicomp/home?authuser=3/">Winter 2023 (Rahman)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 291</td>
             <td>Coding Theory</td>
             <td>
                 <a href="https://sites.google.com/ucsd.edu/coding-theory/">Fall 2022 (Mazumdar)</a><br>
