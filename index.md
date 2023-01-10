@@ -256,6 +256,15 @@ The table below contains the course website for several courses in UCSD's Data S
             </td>
         </tr>
         <tr>
+            <td>DSC 148</td>
+            <td>
+                Introduction to Data Mining
+            </td>
+            <td>
+                <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM/">Winter 2023 (Shang)</a><br>
+            </td>
+        </tr>
+        <tr>
             <td>DSC 180AB</td>
             <td>
                 Capstone Sequence
