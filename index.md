@@ -3,17 +3,22 @@
 
 # UCSD Data Science Course Websites
 
-The table below contains the course website for several courses in UCSD's Data Science curriculum. The most recent offering of each course available is shown by default; click "Show past sites" to show sites from previous quarters.
+This site contains course websites for many of the courses in and adjacent to UCSD's Data Science curriculum. The most recent offering of each course available is shown by default; click "Show past sites" to show sites from previous quarters.
 
+With any questions with this site, feel free to email rampure@ucsd.edu.
 
 ### Table of Contents
 
+- [Undergraduate Courses](#undergraduate-courses)
+    - [Data Science (DSC)](#data-science-dsc)
+    - [Cognitive Science (COGS)](#cognitive-science-cogs)
+- [Graduate Courses](#graduate-courses)
 
 ---
 
 ## Undergraduate Courses
 
-### Data Science
+### Data Science (DSC)
 
 <table class="table">
     <colgroup>
@@ -341,9 +346,9 @@ The table below contains the course website for several courses in UCSD's Data S
     </tbody>
 </table>
 
-_Courses marked with a * are special topics._
+_"Special topics" courses are marked with an asterisk*._
 
-### Cognitive Science
+### Cognitive Science (COGS)
 
 <table class="table">
     <colgroup>
@@ -380,7 +385,7 @@ _Courses marked with a * are special topics._
                 </details>
             </td>
             <td>
-                <a href="https://cogs18.github.io/intro.html/">Winter 2023 (Fleischer)</a><br>
+                <a href="https://cogs18.github.io/intro.html">Winter 2023 (Fleischer)</a><br>
             </td>
         </tr>
         <tr>
@@ -397,11 +402,12 @@ _Courses marked with a * are special topics._
         </tr>
         <tr>
             <td>COGS 137</td>
-            <td>Practical Data Science in R</td>
+            <td>Practical Data Science in R
                 <details>
                     <summary>Catalog Description</summary>
                     Learn coding for data analysis using the R programming language. Course focus will be on practical and applied skills in asking data-informed questions, data wrangling, data visualization, building statistical learning models, and communicating your findings to advance your career. Prerequisites: COGS 14B or MATH 11 or PSYC 60.
                 </details>
+            </td>
             <td>
                 <a href="https://cogs137.github.io/website/">Winter 2023 (Ellis)</a><br>
             </td>
@@ -465,5 +471,3 @@ _Courses marked with a * are special topics._
         </tr>
     </tbody>
 </table>
-
-With any questions with this site, feel free to email rampure@ucsd.edu.
