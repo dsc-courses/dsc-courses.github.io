@@ -1,11 +1,19 @@
 ---
 ---
 
-## UCSD Data Science Course Websites
+# UCSD Data Science Course Websites
 
 The table below contains the course website for several courses in UCSD's Data Science curriculum. The most recent offering of each course available is shown by default; click "Show past sites" to show sites from previous quarters.
 
-### Regularly-Offered Courses
+
+### Table of Contents
+
+
+---
+
+## Undergraduate Courses
+
+### Data Science
 
 <table class="table">
     <colgroup>
@@ -144,8 +152,9 @@ The table below contains the course website for several courses in UCSD's Data S
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40b-2022-fa/">Fall 2022 (Eldridge)</a><br>
+                <a href="https://dsc-courses.github.io/dsc40b-2023-wi/">Winter 2023 (Eldridge and Wang)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc40b-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
                 <a href="https://sites.google.com/ucsd.edu/theoreticalfoundationsofdatasc/" style="color:#999">Spring 2022 (Mazumdar)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40b-2021-fa/" style="color:#999">Fall 2021 (Eldridge and Wang)</a><br>
                 <a href="https://sites.google.com/ucsd.edu/dsc40b/" style="color:#999">Spring 2021 (Mazumdar and Wang)</a><br>
@@ -176,6 +185,16 @@ The table below contains the course website for several courses in UCSD's Data S
                 <a href="https://dsc-courses.github.io/dsc80-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-sp/" style="color:#999">Spring 2022 (Rampure)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2021-fa/" style="color:#999">Fall 2021 (Eldridge)</a><br>
+                </details>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 90*</td>
+            <td>History of Data Science</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure)</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure)</a><br>
                 </details>
             </td>
         </tr>
@@ -256,6 +275,15 @@ The table below contains the course website for several courses in UCSD's Data S
             </td>
         </tr>
         <tr>
+            <td>DSC 140A</td>
+            <td>
+                Probabilistic Modeling and Machine Learning
+            </td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc140a-2023-wi/">Winter 2023 (Aoi and Eldridge)</a><br>
+            </td>
+        </tr>
+        <tr>
             <td>DSC 148</td>
             <td>
                 Introduction to Data Mining
@@ -289,10 +317,33 @@ The table below contains the course website for several courses in UCSD's Data S
                 </details>
             </td>
         </tr>
+        <tr>
+            <td>DSC 190*</td>
+            <td>Advanced Algorithms</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">Winter 2022 (Eldridge)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 190*</td>
+            <td>Algorithms for Data Science</td>
+            <td>
+                <a href="https://mazumdar.ucsd.edu/courses/AFDS/DSC190AFDS.html/">Winter 2021 (Mazumdar)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 190*</td>
+            <td>Representation Learning</td>
+            <td>
+                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/">Spring 2022 (Eldridge)</a><br>
+            </td>
+        </tr>
     </tbody>
 </table>
 
-### Special Topics Undergraduate Courses
+_Courses marked with a * are special topics._
+
+### Cognitive Science
 
 <table class="table">
     <colgroup>
@@ -309,42 +360,57 @@ The table below contains the course website for several courses in UCSD's Data S
     </thead>
     <tbody>
         <tr>
-            <td>DSC 90</td>
-            <td>History of Data Science</td>
-            <td>
-                <a href="https://dsc-courses.github.io/dsc90-2022-sp/">Spring 2022 (Rampure)</a><br>
-                <details><summary>Show past sites</summary>
-                <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure)</a><br>
+            <td>COGS 9</td>
+            <td>Introduction to Data Science
+                <details>
+                    <summary>Catalog Description</summary>
+                    Concepts of data and its role in science will be introduced, as well as the ideas behind data-mining, text-mining, machine learning, and graph theory, and how scientists and companies are leveraging those methods to uncover new insights into human cognition.
                 </details>
             </td>
-        </tr>
-        <tr>
-            <td>DSC 190</td>
-            <td>Advanced Algorithms</td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc190-algorithms-2022-wi/">Winter 2022 (Eldridge)</a><br>
+            TBD
             </td>
         </tr>
         <tr>
-            <td>DSC 190</td>
-            <td>Algorithms for Data Science</td>
+            <td>COGS 18</td>
+            <td>Introduction to Python
+                <details>
+                    <summary>Catalog Description</summary>
+                    This class will teach fundamental Python programming skills and practices, including the “Zen of Python.” Students will focus on scientific computing and learn to write functions and tests, as well as how to debug code using the Jupyter Notebook programming environment. Students may receive credit for one of the following: COGS 18, CSE 8A, or CSE 6R. Recommended preparation: students with limited computing experience may take COGS 3.
+                </details>
+            </td>
             <td>
-                <a href="https://mazumdar.ucsd.edu/courses/AFDS/DSC190AFDS.html/">Winter 2021 (Mazumdar)</a><br>
+                <a href="https://cogs18.github.io/intro.html/">Winter 2023 (Fleischer)</a><br>
             </td>
         </tr>
         <tr>
-            <td>DSC 190</td>
-            <td>Representation Learning</td>
+            <td>COGS 108</td>
+            <td>Data Science in Practice
+                <details>
+                    <summary>Catalog Description</summary>
+                    Data science is multidisciplinary, covering computer science, statistics, cognitive science and psychology, data visualization, artificial intelligence and machine learning, among others. This course teaches critical skills needed to pursue a data science career using hands-on programming and experimental challenges. Prerequisites: CSE 11 or CSE 8A or COGS 18 or DSC 10 or MAE 8.
+                </details>
+            </td>
             <td>
-                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/">Spring 2022 (Eldridge)</a><br>
+                <a href="https://github.com/COGS108/">All offerings</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>COGS 137</td>
+            <td>Practical Data Science in R</td>
+                <details>
+                    <summary>Catalog Description</summary>
+                    Learn coding for data analysis using the R programming language. Course focus will be on practical and applied skills in asking data-informed questions, data wrangling, data visualization, building statistical learning models, and communicating your findings to advance your career. Prerequisites: COGS 14B or MATH 11 or PSYC 60.
+                </details>
+            <td>
+                <a href="https://cogs137.github.io/website/">Winter 2023 (Ellis)</a><br>
             </td>
         </tr>
     </tbody>
 </table>
 
-### Graduate Courses
 
-While not all of these courses are labelled "DSC", they are all taught by DSC faculty.
+## Graduate Courses
 
 <table class="table">
     <colgroup>
@@ -399,8 +465,5 @@ While not all of these courses are labelled "DSC", they are all taught by DSC fa
         </tr>
     </tbody>
 </table>
-
-
-
 
 With any questions with this site, feel free to email rampure@ucsd.edu.
