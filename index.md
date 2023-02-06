@@ -373,7 +373,7 @@ _"Special topics" courses are marked with an asterisk*._
                 </details>
             </td>
             <td>
-            TBD
+                <a href="https://kshannon.github.io/ucsd-cogs9/">Winter 2023 (Shannon)</a>
             </td>
         </tr>
         <tr>
@@ -385,7 +385,7 @@ _"Special topics" courses are marked with an asterisk*._
                 </details>
             </td>
             <td>
-                <a href="https://cogs18.github.io/intro.html">Winter 2023 (Fleischer)</a><br>
+                <a href="https://cogs18.github.io/intro.html">Winter 2023 (Fleischer)</a>
             </td>
         </tr>
         <tr>
@@ -397,7 +397,7 @@ _"Special topics" courses are marked with an asterisk*._
                 </details>
             </td>
             <td>
-                <a href="https://github.com/COGS108/">All offerings</a><br>
+                <a href="https://github.com/COGS108/">All offerings</a>
             </td>
         </tr>
         <tr>
@@ -409,7 +409,7 @@ _"Special topics" courses are marked with an asterisk*._
                 </details>
             </td>
             <td>
-                <a href="https://cogs137.github.io/website/">Winter 2023 (Ellis)</a><br>
+                <a href="https://cogs137.github.io/website/">Winter 2023 (Ellis)</a>
             </td>
         </tr>
     </tbody>
