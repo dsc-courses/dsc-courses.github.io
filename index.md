@@ -14,6 +14,8 @@ With any questions with this site, feel free to email rampure@ucsd.edu.
     - [Cognitive Science (COGS)](#cognitive-science-cogs)
 - [Graduate Courses](#graduate-courses)
 
+A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI-adjacent courses at UCSD as of 2020/2021](https://docs.google.com/document/d/1kQeD_OQ_b2NcfkXBtmtQw4HNJ0lv-VDvj2Yz9SkVP1Q/edit#heading=h.ri0364kcpnnm).
+
 ---
 
 ## Undergraduate Courses
