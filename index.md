@@ -84,7 +84,10 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc20-2022-fa/">Fall 2022 (Langlois)</a><br>
+                <a href="https://dsc-courses.github.io/dsc20-2023-wi/">Winter 2023 (Langlois)</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc20-2022-fa/" style="color:#999">Fall 2022 (Langlois)</a><br>
+                </details>
             </td>
         </tr>
         <tr>
