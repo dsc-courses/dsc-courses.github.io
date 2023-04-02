@@ -52,8 +52,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc10-2023-wi">Winter 2023 (Tiefenbruck)</a><br>
+                <a href="https://dsc-courses.github.io/dsc10-2023-sp">Spring 2023 (Rampure)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc10-2023-wi" style="color:#999">Winter 2023 (Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-fa" style="color:#999">Fall 2022 (Rampure, Tabaghi, and Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-su" style="color:#999">Summer 2022 (Lau)</a><br>
                 <a href="https://dsc-courses.github.io/dsc10-2022-sp" style="color:#999">Spring 2022 (Tiefenbruck)</a><br>
@@ -190,8 +191,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc80-2023-wi">Winter 2023 (Rampure)</a><br>
+                <a href="https://dsc-courses.github.io/dsc80-2023-sp">Spring 2023 (Rahman)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc80-2023-wi" style="color:#999">Winter 2023 (Rampure)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-sp/" style="color:#999">Spring 2022 (Rampure)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2021-fa/" style="color:#999">Fall 2021 (Eldridge)</a><br>
@@ -206,6 +208,14 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 <details><summary>Show past sites</summary>
                 <a href="https://dsc-courses.github.io/dsc90-2022-wi/" style="color:#999">Winter 2022 (Rampure)</a><br>
                 </details>
+            </td>
+        </tr>
+        <tr>
+        <tr>
+            <td>DSC 95</td>
+            <td>Tutor Apprenticeship in Data Science</td>
+            <td>
+                <a href="https://dsc-courses.github.io/dsc95-2023-sp/">Spring 2023 (Rampure)</a>
             </td>
         </tr>
         <tr>
