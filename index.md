@@ -211,7 +211,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
         </tr>
         <tr>
-        <tr>
             <td>DSC 95</td>
             <td>Tutor Apprenticeship in Data Science</td>
             <td>
