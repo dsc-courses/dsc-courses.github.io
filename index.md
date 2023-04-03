@@ -387,7 +387,11 @@ _"Special topics" courses are marked with an asterisk*._
                 </details>
             </td>
             <td>
-                <a href="https://kshannon.github.io/ucsd-cogs9/">Winter 2023 (Shannon)</a>
+                <a href="https://cogs9.github.io/ucsd-cogs9/">Spring 2023 (Ellis)</a>
+                <details><summary>Show past sites</summary>
+                <a href="https://kshannon.github.io/ucsd-cogs9/" style="color:#999">Winter 2023 (Shannon)</a>
+                </details>
+
             </td>
         </tr>
         <tr>
@@ -460,6 +464,20 @@ _"Special topics" courses are marked with an asterisk*._
             </td>
             <td>
                 <a href="https://docs.google.com/document/d/1L5hXL-VsIwTq9HqIm4Lzs4qxmy9gl4UF7oBXJrch9Jo/edit/">Winter 2023 (de Sa)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 204</td>
+            <td>Scalable Data Systems</td>
+            <td>
+                <a href="https://haojian.github.io/DSC204A23WI/">Spring 2023 (Jin)</a><br>
+            </td>
+        </tr>
+        <tr>
+            <td>DSC 253</td>
+            <td>Advanced Data-Driven Text Mining</td>
+            <td>
+                <a href="https://shangjingbo1226.github.io/teaching/2023-spring-CSE291-TM/">Spring 2023 (Shang)</a><br>
             </td>
         </tr>
         <tr>
