@@ -308,7 +308,7 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 Introduction to Data Mining
             </td>
             <td>
-                <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM/">Winter 2023 (Shang)</a><br>
+                <a href="https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM">Winter 2023 (Shang)</a><br>
             </td>
         </tr>
         <tr>
@@ -477,7 +477,7 @@ _"Special topics" courses are marked with an asterisk*._
             <td>DSC 253</td>
             <td>Advanced Data-Driven Text Mining</td>
             <td>
-                <a href="https://shangjingbo1226.github.io/teaching/2023-spring-CSE291-TM/">Spring 2023 (Shang)</a><br>
+                <a href="https://shangjingbo1226.github.io/teaching/2023-spring-CSE291-TM">Spring 2023 (Shang)</a><br>
             </td>
         </tr>
         <tr>
