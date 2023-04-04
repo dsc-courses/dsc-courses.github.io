@@ -482,6 +482,13 @@ _"Special topics" courses are marked with an asterisk*._
         </tr>
         <tr>
             <td>DSC 291</td>
+            <td>Trustworthy Machine Learning</td>
+            <td>
+                <a href="https://lilywenglab.github.io/dsc-291-sp23">Spring 2023 (Weng)</a><br>
+            </td>
+        </tr>s
+        <tr>
+            <td>DSC 291</td>
             <td>Privacy-Preserving Data Systems</td>
             <td>
                 <a href="https://haojian.github.io/privacysys/">Winter 2023 (Jin)</a><br>
