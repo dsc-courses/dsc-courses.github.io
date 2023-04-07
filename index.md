@@ -135,8 +135,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40a-2022-fa/">Fall 2022 (Hy and Soleymani)</a><br>
+                <a href="https://dsc-courses.github.io/dsc40a-2023-sp/">Spring 2023 (Tiefenbruck)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc40a-2022-fa/" style="color:#999">Fall 2022 (Hy and Soleymani)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40a-2022-wi/" style="color:#999">Winter 2022 (Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40a-2021-fa/" style="color:#999">Fall 2021 (Rampure)</a><br>
                 </details>
@@ -303,6 +304,16 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
         </tr>
         <tr>
+            <td>DSC 140B</td>
+            <td>Representation Learning</td>
+            <td>
+                <a href="http://dsc-courses.github.io/dsc140b-2023-sp/">Spring 2023 (Eldridge and Hu)</a><br>
+                <details><summary>Show past sites</summary>
+                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/" style="color:#999">Spring 2022 (Eldridge)</a><br>
+                </details>
+            </td>
+        </tr>
+        <tr>
             <td>DSC 148</td>
             <td>
                 Introduction to Data Mining
@@ -348,13 +359,6 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             <td>Algorithms for Data Science</td>
             <td>
                 <a href="https://mazumdar.ucsd.edu/courses/AFDS/DSC190AFDS.html/">Winter 2021 (Mazumdar)</a><br>
-            </td>
-        </tr>
-        <tr>
-            <td>DSC 190*</td>
-            <td>Representation Learning</td>
-            <td>
-                <a href="http://dsc-courses.github.io/dsc190-representation_learning-2022-sp/">Spring 2022 (Eldridge)</a><br>
             </td>
         </tr>
     </tbody>
