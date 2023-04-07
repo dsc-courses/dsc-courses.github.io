@@ -264,8 +264,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_fall22/">Fall 2022 (Kumar)</a><br>
+                <a href="https://dsc-courses.github.io/dsc102-2023-sp/">Spring 2023 (Albuyeh)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_fall22/" style="color:#999">Fall 2022 (Kumar)</a><br>
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter22/" style="color:#999">Winter 2022 (Kumar)</a><br>
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter21/" style="color:#999">Winter 2021 (Kumar)</a><br>
                 <a href="https://cseweb.ucsd.edu/~arunkk/dsc102_winter20/" style="color:#999">Winter 2020 (Kumar)</a><br>
