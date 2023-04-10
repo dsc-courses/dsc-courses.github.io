@@ -236,8 +236,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://bsalimi.github.io/dsc100-wi23/">Winter 2023 (Salimi)</a><br>
+                <a href="https://bsalimi.github.io/dsc100-sp23/">Spring 2023 (Salimi)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://bsalimi.github.io/dsc100-wi23/" style="color:#999">Winter 2023 (Salimi)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-fa22/" style="color:#999">Fall 2022 (Salimi)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-fa21/" style="color:#999">Fall 2021 (Salimi)</a><br>
                 <a href="https://bsalimi.github.io/dsc100-sp21/" style="color:#999">Spring 2021 (Spring 2021)</a><br>
