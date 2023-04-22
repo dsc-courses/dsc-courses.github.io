@@ -7,8 +7,7 @@ This site contains course websites for many of the courses in and adjacent to UC
 
 With any questions with this site, feel free to email rampure@ucsd.edu.
 
-> **Note**
-> This is **not** intended to be used as a list of all courses that HDSI offers, and the information here may be out of date. For official information about all of our course offerings, please refer to the [Undergraduate](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/) and [Graduate](https://datascience.ucsd.edu/graduate/) program pages on the official HDSI website.
+> ⚠️ **Note**: This is **not** intended to be used as a list of all courses that HDSI offers, and the information here may be out of date. For official information about all of our course offerings, please refer to the [Undergraduate](https://datascience.ucsd.edu/current-students/course-descriptions-and-prerequisites/) and [Graduate](https://datascience.ucsd.edu/graduate/) program pages on the official HDSI website.
 
 ### Table of Contents
 
