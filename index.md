@@ -113,7 +113,10 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
+                <a href="https://dsc-courses.github.io/dsc30-2023-su/">Summer 2023 (Lin)</a><br>
+                <details><summary>Show past sites</summary>
                 <a href="https://sites.google.com/ucsd.edu/dsc30fall2022/">Fall 2022 (Langlois)</a><br>
+                </details>
             </td>
         </tr>
         <tr>
