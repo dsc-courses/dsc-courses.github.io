@@ -140,8 +140,9 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc40a-2023-sp/">Spring 2023 (Tiefenbruck)</a><br>
+                <a href="https://dsc-courses.github.io/dsc40a-2023-su/">Summer 2023 (Albuyeh)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc40a-2023-sp/" style="color:#999">Spring 2023 (Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40a-2022-fa/" style="color:#999">Fall 2022 (Hy and Soleymani)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40a-2022-wi/" style="color:#999">Winter 2022 (Tiefenbruck)</a><br>
                 <a href="https://dsc-courses.github.io/dsc40a-2021-fa/" style="color:#999">Fall 2021 (Rampure)</a><br>
