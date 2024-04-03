@@ -12,8 +12,8 @@ With any questions with this site, feel free to email rampure@ucsd.edu.
 ### Table of Contents
 
 - [Undergraduate Courses](#undergraduate-courses)
-    - [Data Science (DSC)](#data-science-dsc)
-    - [Cognitive Science (COGS)](#cognitive-science-cogs)
+  - [Data Science (DSC)](#data-science-dsc)
+  - [Cognitive Science (COGS)](#cognitive-science-cogs)
 - [Graduate Courses](#graduate-courses)
 
 A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI-adjacent courses at UCSD as of 2020/2021](https://docs.google.com/document/d/1kQeD_OQ_b2NcfkXBtmtQw4HNJ0lv-VDvj2Yz9SkVP1Q/edit#heading=h.ri0364kcpnnm).
@@ -198,8 +198,11 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://dsc-courses.github.io/dsc80-2023-sp">Spring 2023 (Rahman)</a><br>
+                <a href="https://dsc-courses.github.io/dsc80-2024-sp">Spring 2024 (Lau)</a><br>
                 <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc80-2024-wi" style="color:#999">Winter 2024 (Rampure)</a><br>
+                <a href="https://dsc-courses.github.io/dsc80-2023-fa" style="color:#999">Fall 2023 (Lau)</a><br>
+                <a href="https://dsc-courses.github.io/dsc80-2023-sp" style="color:#999">Spring 2023 (Rahman)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2023-wi" style="color:#999">Winter 2023 (Rampure)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-fa/" style="color:#999">Fall 2022 (Eldridge)</a><br>
                 <a href="https://dsc-courses.github.io/dsc80-2022-sp/" style="color:#999">Spring 2022 (Rampure)</a><br>
@@ -299,7 +302,11 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
                 </details>
             </td>
             <td>
-                <a href="https://sites.google.com/ucsd.edu/dsc106spring22/">Spring 2022 (Liao)</a><br>
+                <a href="https://dsc106.com/">Spring 2024 (Wilber)</a>
+                <details><summary>Show past sites</summary>
+                <a href="https://dsc-courses.github.io/dsc106-wi24/" style="color:#999">Winter 2024 (Lau)</a><br>
+                <a href="https://sites.google.com/ucsd.edu/dsc106spring22/" style="color:#999">Spring 2022 (Liao)</a><br>
+                </details>
             </td>
         </tr>
         <tr>
@@ -370,9 +377,10 @@ A related list, compiled by Jason Fleischer, contains descriptions of [all ML/AI
             </td>
         </tr>
     </tbody>
+
 </table>
 
-_"Special topics" courses are marked with an asterisk*._
+_"Special topics" courses are marked with an asterisk\*._
 
 ### Cognitive Science (COGS)
 
@@ -443,8 +451,8 @@ _"Special topics" courses are marked with an asterisk*._
             </td>
         </tr>
     </tbody>
-</table>
 
+</table>
 
 ## Graduate Courses
 
@@ -521,4 +529,5 @@ _"Special topics" courses are marked with an asterisk*._
             </td>
         </tr>
     </tbody>
+
 </table>
