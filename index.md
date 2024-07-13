@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: 🏠 Home
+title: 🧑‍🏫 UCSD Data Science Course Websites
 nav_exclude: false
 nav_order: 1
 has_right_toc: true
