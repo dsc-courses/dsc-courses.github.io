@@ -4,7 +4,6 @@ description: Only a small fraction of our graduate course offerings are listed h
 courses:
   - course: 'DSC 204A'
     title: Scalable Data Systems
-    description: "This course is designed to give students background in EEG-based brain-computer interfaces followed by in depth exploration of signal processing and classification algorithms used. The first few lectures will be given by the Professor on introduction to EEG and BCIs. Future classes will involve students presenting classification or signal processing algorithms of their choice from recent or classic papers. Students will meet with the Professor before their class presentation for any help needed in understanding the paper. Final projects may be done in groups and will involve either detailed or comparative analysis of different algorithms or application of algorithms to well curated data. Evaluation will be dependent on paper presentation, participation during other presentations, and the final project. Background or interest in EEG and Neuroscience are required. A prior upper division undergraduate or graduate course in machine learning, signal processing, or other mathematical course is also required."
     offerings:
       - quarter: Spring 2023 (Jin)
         url: https://haojian.github.io/DSC204A23WI/
