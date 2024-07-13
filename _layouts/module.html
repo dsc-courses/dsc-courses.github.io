@@ -1,0 +1,49 @@
+<div>
+
+  <h2 id="{{ page.title | slugify }}">{{ page.title }}</h2>
+
+  {% if page.description %}
+  <p style="color: #777" markdown="1"> {{ page.description }}</p>
+  {% endif %}
+
+  {% if page.courses %}
+
+    {% for course in page.courses %}
+
+      {% if course.course %}
+        <h3>{{ course.course }} <span style="color: #777; margin-top: 0">{{ course.title }}</span></h3>
+      {% endif %}
+      {% if course.offerings %}
+      <div style="width: 100%;">
+        <div style="width: 50%; float: left">
+          <b>Most recent offering</b>:
+              {% for offering in course.offerings %}
+                {% if forloop.first == true %}
+                  <b><a href="{{ offering.url }}" style="text-decoration:none">{{ offering.quarter }}</a></b>
+                {% elsif forloop.index == 2 %}
+                    <br>
+                    <small>
+                      <b>Previous offerings</b>:
+                        <a href="{{ offering.url }}" style="text-decoration:none">{{ offering.quarter }}</a>
+                    {% if forloop.last == true %}
+                    </small>
+                    {% endif %}
+                {% elsif forloop.last == true %}
+                        • <a href="{{ offering.url }}" style="text-decoration:none">{{ offering.quarter }}</a>
+                    </small>
+                {% else %}
+                        • <a href="{{ offering.url }}" style="text-decoration:none">{{ offering.quarter }}</a>
+                {% endif %}
+              {% endfor %}
+        </div>
+        <div style="margin-left: 55%"> 
+          {% if course.description %}
+          <small>{{ course.description }}</small>
+          {% endif %}      
+        </div>
+      </div>
+      {% endif %}
+      <br><br>
+    {% endfor %}
+  {% endif %}
+</div>
