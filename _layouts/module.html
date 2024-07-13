@@ -15,7 +15,7 @@
       {% endif %}
       {% if course.offerings %}
       <div style="width: 100%;">
-        <div style="width: 50%; float: left">
+        <div style="width: 58%; float: left">
           <b>Most recent offering</b>:
               {% for offering in course.offerings %}
                 {% if forloop.first == true %}
@@ -36,7 +36,7 @@
                 {% endif %}
               {% endfor %}
         </div>
-        <div style="margin-left: 55%"> 
+        <div style="margin-left: 60%"> 
           {% if course.description %}
           <small>{{ course.description }}</small>
           {% endif %}      
