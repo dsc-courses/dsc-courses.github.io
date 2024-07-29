@@ -7,6 +7,11 @@ courses:
     offerings:
       - quarter: Spring 2023 (Jin)
         url: https://haojian.github.io/DSC204A23WI/
+  - course: 'DSC 204A'
+    title: Scalable Data Systems
+    offerings:
+      - quarter: Winter 2024 (Zhang)
+        url: https://hao-ai-lab.github.io/dsc204a-w24/
   - course: 'DSC 253'
     title: Advanced Data-Driven Text Mining
     offerings:
@@ -32,4 +37,9 @@ courses:
     offerings:
       - quarter: Fall 2022 (Mazumdar)
         url: https://sites.google.com/ucsd.edu/coding-theory/
+  - course: 'DSC 291'
+    title: Machine Learning Systems
+    offerings:
+      - quarter: Spring 2024 (Zhang)
+        url: https://hao-ai-lab.github.io/dsc291-s24/
 ---
