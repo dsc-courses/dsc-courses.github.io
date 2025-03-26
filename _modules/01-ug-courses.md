@@ -6,6 +6,8 @@ courses:
     title: Principles of Data Science
     description: 'This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis. Prerequisites: none.'
     offerings:
+      - quarter: Winter 2025 (Tiefenbruck)
+        url: https://dsc-courses.github.io/dsc10-2025-wi
       - quarter: Fall 2024 (Tiefenbruck)
         url: https://dsc-courses.github.io/dsc10-2024-fa
       - quarter: Summer Session 1 2024 (Kheterpal)
@@ -44,6 +46,8 @@ courses:
       students within the DS25 major. All other students will be
       allowed as space permits.'
     offerings:
+      - quarter: Winter 2025 (Langlois)
+        url: https://dsc-courses.github.io/dsc20-website
       - quarter: Fall 2024 (Langlois)
         url: https://dsc-courses.github.io/dsc20-website
       - quarter: Summer Session 1 2024 (Tayeb)
@@ -145,6 +149,8 @@ courses:
       to students within the DS25 major. All other students will be allowed as space
       permits.'
     offerings:
+      - quarter: Winter 2025 (Watson-Parris)
+        url: https://dsc-courses.github.io/dsc80-2025-wi
       - quarter: Fall 2024 (Lau)
         url: https://dsc-courses.github.io/dsc80-2024-fa
       - quarter: Summer 2024 (Tomoschuk)
