@@ -6,6 +6,10 @@ courses:
     title: Principles of Data Science
     description: 'This introductory course develops computational thinking and tools necessary to answer questions that arise from large-scale datasets. This course emphasizes an end-to-end approach to data science, introducing programming techniques in Python that cover data processing, modeling, and analysis. Prerequisites: none.'
     offerings:
+      - quarter: Fall 2025 (Tiefenbruck and Chi)
+        url: https://dsc-courses.github.io/dsc10-2025-fa/
+      - quarter: Spring 2025 (Tiefenbruck)
+        url: https://dsc-courses.github.io/dsc10-2025-sp/
       - quarter: Winter 2025 (Tiefenbruck)
         url: https://dsc-courses.github.io/dsc10-2025-wi
       - quarter: Fall 2024 (Tiefenbruck)
@@ -32,6 +36,7 @@ courses:
         url: https://dsc-courses.github.io/dsc10-2022-wi
       - quarter: Fall 2021 (Rampure, Tiefenbruck)
         url: https://dsc-courses.github.io/dsc10-2021-fa
+
   - course: DSC 20
     title: Programming and Data Structures for Data Science
     description: 'Provides an understanding of the structures that underlie
@@ -46,6 +51,10 @@ courses:
       students within the DS25 major. All other students will be
       allowed as space permits.'
     offerings:
+      - quarter: Fall 2025 (Langlois)
+        url: https://dsc-courses.github.io/dsc20-website
+      - quarter: Spring 2025 (Langlois)
+        url: https://dsc-courses.github.io/dsc20-website
       - quarter: Winter 2025 (Langlois)
         url: https://dsc-courses.github.io/dsc20-website
       - quarter: Fall 2024 (Langlois)
@@ -58,6 +67,7 @@ courses:
         url: https://dsc-courses.github.io/dsc20-2023-wi
       - quarter: Fall 2022 (Langlois)
         url: https://dsc-courses.github.io/dsc20-2022-fa
+
   - course: DSC 30
     title: Data Structures and Algorithms for Data Science
     description: 'Builds on topics covered in DSC 20 and provides practical
@@ -75,6 +85,7 @@ courses:
         url: https://dsc-courses.github.io/dsc30-2023-fa
       - quarter: Summer 2023 (Lin)
         url: https://dsc-courses.github.io/dsc30-2023-su
+
   - course: DSC 40A
     title: Theoretical Foundations of Data Science I
     description:
@@ -90,6 +101,8 @@ courses:
       31AH. Restricted to students within the DS25 major. All other students will be
       allowed as space permits.'
     offerings:
+      - quarter: Fall 2025 (Mishne)
+        url: https://dsc-courses.github.io/dsc40a-2025-fa/
       - quarter: Fall 2024 (Mishne)
         url: https://dsc-courses.github.io/dsc40a-2024-fa
       - quarter: Summer Session 1 2024 (Shannon)
@@ -108,6 +121,7 @@ courses:
         url: https://dsc-courses.github.io/dsc40a-2022-wi
       - quarter: Fall 2021 (Rampure)
         url: https://dsc-courses.github.io/dsc40a-2021-fa
+
   - course: DSC 40B
     title: Theoretical Foundations of Data Science II
     description: 'The sequence DSC 40A-B introduces the theoretical
@@ -122,6 +136,8 @@ courses:
       and 40A. Restricted to students within the DS25 major. All
       other students will be allowed as space permits.'
     offerings:
+      - quarter: Spring 2025 (Eldridge)
+        url: https://dsc-courses.github.io/dsc40b-2025-sp
       - quarter: Winter 2025 (Eldridge)
         url: https://dsc-courses.github.io/dsc40b-2025-wi
       - quarter: Fall 2024 (Eldridge)
@@ -136,6 +152,7 @@ courses:
         url: https://dsc-courses.github.io/dsc40b-2021-fa
       - quarter: Spring 2021 (Mazumdar, Wang)
         url: https://sites.google.com/ucsd.edu/dsc40b
+
   - course: DSC 80
     title: Practice and Application of Data Science
     description:
@@ -149,6 +166,10 @@ courses:
       to students within the DS25 major. All other students will be allowed as space
       permits.'
     offerings:
+      - quarter: Fall 2025 (Eldridge)
+        url: https://dsc-courses.github.io/dsc80-2025-fa
+      - quarter: Spring 2025 (Rahman)
+        url: https://dsc-courses.github.io/dsc80-2025-sp
       - quarter: Winter 2025 (Watson-Parris)
         url: https://dsc-courses.github.io/dsc80-2025-wi
       - quarter: Fall 2024 (Lau)
@@ -171,6 +192,7 @@ courses:
         url: https://dsc-courses.github.io/dsc80-2022-sp
       - quarter: Fall 2021 (Eldridge)
         url: https://dsc-courses.github.io/dsc80-2021-fa
+
   - course: DSC 90
     title: 'Seminar in Data Science: History of Data Science'
     offerings:
@@ -178,24 +200,35 @@ courses:
         url: https://dsc-courses.github.io/dsc90-2022-sp
       - quarter: Winter 2022 (Rampure)
         url: https://dsc-courses.github.io/dsc90-2022-wi
+
   - course: DSC 95
     title: 'Tutor Apprenticeship in Data Science'
     offerings:
+      - quarter: Fall 2025 (Langlois)
+        url: https://dsc-courses.github.io/DSC95-2025-Fall
+      - quarter: Spring 2025 (Tiefenbruck)
+        url: https://dsc-courses.github.io/dsc95-2025-sp
       - quarter: Spring 2024 (Rampure)
         url: https://dsc-courses.github.io/dsc95-2024-sp
       - quarter: Winter 2024 (Jemmott)
         url: https://sites.google.com/view/dsc95wi24/home
       - quarter: Spring 2023 (Rampure)
         url: https://dsc-courses.github.io/dsc95-2023-sp
+
   - course: DSC 96
     title: 'Workshop in Data Science'
     offerings:
       - quarter: Fall 2023 (Jemmott)
         url: https://sites.google.com/view/dsc96fall2023/home
+
   - course: DSC 100
     title: 'Introduction to Data Management'
     description: 'This course is an introduction to storage and management of large-scale data using classical relational (SQL) systems, with an eye toward applications in data science. The course covers topics including the SQL data model and query language, relational data modeling and schema design, elements of cost-based query optimizations, relational data base architecture, and database-backed applications. Prerequisites: DSC 80 and DSC 40B. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All otherstudents will be allowed as space permits.'
     offerings:
+      - quarter: Summer 2025 (Salimi)
+        url: https://bsalimi.github.io/dsc100-su25
+      - quarter: Spring 2025 (Salimi)
+        url: https://bsalimi.github.io/dsc100-sp25
       - quarter: Spring 2024 (Salimi)
         url: https://bsalimi.github.io/dsc100-sp24
       - quarter: Winter 2024 (Shannon)
@@ -212,6 +245,7 @@ courses:
         url: https://bsalimi.github.io/dsc100-sp21
       - quarter: Winter 2021 (Salimi)
         url: https://bsalimi.github.io/dsc100-wi21
+
   - course: DSC 102
     title: Systems for Scalable Analytics
     description: 'This course introduces the principles of computing systems and infrastructure for scaling analytics to large datasets. Topics include memory hierarchy, distributed systems, model selection, heterogeneous datasets, and deployment at scale. The course will also discuss the design of systems such as MapReduce/Hadoop and Spark, in conjunction with their implementation. Students will also learn how dataflow operations can be used to perform data preparation, cleaning, and feature engineering. Prerequisites: DSC 100. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.'
@@ -230,10 +264,15 @@ courses:
         url: https://cseweb.ucsd.edu/~arunkk/dsc102_winter21
       - quarter: Winter 2020 (Kumar)
         url: https://cseweb.ucsd.edu/~arunkk/dsc102_winter20
+
   - course: DSC 106
     title: Introduction to Data Visualization
     description: 'Data visualization helps explore and interpret data through interaction. This course introduces the principles, techniques, and algorithms for creating  effective visualizations. The course draws on the knowledge from several disciplines including computer graphics, human-computer interaction, cognitive psychology, design, and statistical graphics and synthesizes relevant ideas. Students will design visualization systems using D3 or other web-based software and evaluate their effectiveness. Prerequisites: DSC 80. Restricted to students with upper-division standing. Restricted to students within the DS25 major. All other students will be allowed as space permits.'
     offerings:
+      - quarter: Fall 2025 (Lau)
+        url: https://dsc-courses.github.io/dsc106-2025-fa
+      - quarter: Spring 2025 (Lau)
+        url: https://dsc-courses.github.io/dsc106-2025-sp
       - quarter: Winter 2025 (Lau)
         url: https://dsc-courses.github.io/dsc106-2025-wi
       - quarter: Spring 2024 (Wilber)
@@ -242,6 +281,7 @@ courses:
         url: https://dsc-courses.github.io/dsc106-wi24
       - quarter: Spring 2022 (Liao)
         url: https://sites.google.com/ucsd.edu/dsc106spring22
+
   - course: DSC 140A
     title: Probabilistic Modeling and Machine Learning
     offerings:
@@ -251,6 +291,7 @@ courses:
         url: https://dsc-courses.github.io/dsc140a-2024-sp
       - quarter: Winter 2023 (Aoi and Eldridge)
         url: https://dsc-courses.github.io/dsc140a-2023-wi
+
   - course: DSC 140B
     title: Representation Learning
     offerings:
@@ -258,6 +299,7 @@ courses:
         url: http://dsc-courses.github.io/dsc140b-2023-sp
       - quarter: Spring 2022 (Eldridge)
         url: http://dsc-courses.github.io/dsc190-representation_learning-2022-sp
+
   - course: DSC 148
     title: Introduction to Data Mining
     offerings:
@@ -265,6 +307,7 @@ courses:
         url: https://shangjingbo1226.github.io/teaching/2024-winter-DSC148-DM
       - quarter: Winter 2023 (Shang)
         url: https://shangjingbo1226.github.io/teaching/2023-winter-DSC148-DM
+
   - course: DSC 180AB
     title: Capstone Sequence
     description:
@@ -278,17 +321,21 @@ courses:
       or COGS 188 or CSE 158, DSC 106. Restricted to students with upper-division
       standing. Restricted to students within the DS25 major.'
     offerings:
+      - quarter: Fall 2025 + Winter 2026 (Bellur)
+        url: https://dsc-capstone.org/2025-26/
       - quarter: Fall 2023 + Winter 2024 (Rampure)
         url: https://dsc-capstone.org/2023-24
       - quarter: Fall 2022 + Winter 2023 (Rampure)
         url: https://dsc-capstone.org/2022-23
       - quarter: Fall 2021 + Winter 2022 (Fraenkel)
         url: https://dsc-capstone.github.io/old-site
+
   - course: DSC 190
     title: Advanced Algorithms
     offerings:
       - quarter: Winter 2022 (Eldridge)
         url: https://dsc-courses.github.io/dsc190-algorithms-2022-wi
+
   - course: DSC 190
     title: Algorithms for Data Science
     offerings:
