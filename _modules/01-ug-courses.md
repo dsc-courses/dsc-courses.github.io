@@ -341,4 +341,17 @@ courses:
     offerings:
       - quarter: Winter 2021 (Mazumdar)
         url: https://mazumdar.ucsd.edu/courses/AFDS/DSC190AFDS.html
+
+  - course: DSC 190
+    title: History of Data Science
+    description:
+      'A new humanities course designed for Data Science majors to learn the long history of
+       data and science in society, plus the short history of "data science" as a field and
+       profession. In doing so, students will learn to link cases from history to
+       similarly-shaped issues in our current moment, as a way to cut through hype and
+       think critically about the roles that technical experts play in society. The course
+       requires in-person attendance and has in-class writing assignments. See description.'
+    offerings:
+      - quarter: Winter 2026 (Geiger)
+        url: https://stuartgeiger.com/teaching/DSC-190-History-of-Data-Science-Winter-WI-26/
 ---
