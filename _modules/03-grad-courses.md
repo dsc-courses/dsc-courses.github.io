@@ -42,4 +42,9 @@ courses:
     offerings:
       - quarter: Spring 2024 (Zhang)
         url: https://hao-ai-lab.github.io/dsc291-s24/
+  - course: 'DSC 259R'
+    title: Practice and Application of Data Science
+    offerings:
+      - quarter: Winter 2026 (Lau)
+        url: https://dsc-courses.github.io/dsc259r-2026-wi
 ---
